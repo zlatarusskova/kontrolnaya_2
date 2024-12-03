@@ -1,0 +1,11 @@
+#links{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-image: url(/img/backPic.png);
+    justify-self: center;
+    border-radius: 20px;
+    border: 2px solid pink;
+    padding: 2%;
+}

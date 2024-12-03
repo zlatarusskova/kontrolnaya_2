@@ -1,0 +1,11 @@
+#infoBlock{
+    border: 2px solid pink;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    width: 95%;
+    height: calc(width/2);
+    background-image: url(/img/backPic.png);
+    padding: 18px 20px;
+}
